@@ -1,0 +1,9 @@
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\Palindromico.Tests.dll
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\Palindromico.Tests.pdb
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\Palindromico.dll
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\Palindromico.pdb
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\obj\Debug\Palindromico.Tests.dll
+C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico.Tests\obj\Debug\Palindromico.Tests.pdb

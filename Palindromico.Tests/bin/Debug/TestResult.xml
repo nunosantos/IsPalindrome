@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Anna\Documents\Visual Studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\Palindromico.Tests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-07-10" time="22:34:31">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5466" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="ANNA-PC" user="Anna" user-domain="Anna-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Anna\Documents\Visual Studio 2010\Projects\Palindromico\Palindromico.Tests\bin\Debug\Palindromico.Tests.dll" executed="True" result="Success" success="True" time="0.021" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Palindromico" executed="True" result="Success" success="True" time="0.020" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.018" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="PalindromeTests" executed="True" result="Success" success="True" time="0.012" asserts="0">
+                <results>
+                  <test-case name="Palindromico.Tests.PalindromeTests.IsPalindrome_ValidCondition_ReturnsTrue" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
