@@ -1,0 +1,7 @@
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome.Executable\bin\Debug\Palindrome.Executable.exe
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome.Executable\bin\Debug\Palindrome.Executable.pdb
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome.Executable\obj\Debug\Palindrome.Executable.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome.Executable\obj\Debug\Palindrome.Executable.exe
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome.Executable\obj\Debug\Palindrome.Executable.pdb
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome.Executable\bin\Debug\Palindrome.dll
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome.Executable\bin\Debug\Palindrome.pdb

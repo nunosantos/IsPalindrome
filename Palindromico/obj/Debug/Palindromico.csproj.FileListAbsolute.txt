@@ -1,5 +1,0 @@
-C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico\bin\Debug\Palindromico.dll
-C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico\bin\Debug\Palindromico.pdb
-C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico\obj\Debug\Palindromico.dll
-C:\Users\Anna\documents\visual studio 2010\Projects\Palindromico\Palindromico\obj\Debug\Palindromico.pdb

@@ -1,0 +1,5 @@
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome\bin\Debug\Palindrome.dll
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome\obj\Debug\Palindrome.dll
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Dissertation\Dissertation\Palindrome\obj\Debug\Palindrome.pdb
